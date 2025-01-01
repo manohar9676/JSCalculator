@@ -5,9 +5,6 @@ This project is a simple calculator built with JavaScript, HTML, and CSS. It pro
 ## Live Demo
 Check out the live version of the calculator: [Calculator Live Demo](https://js-calculator-silk.vercel.app/)
 
-
-Check out the live version of the calculator: Calculator Live Demo
-
 Features
 
 Addition, subtraction, multiplication, and division.
