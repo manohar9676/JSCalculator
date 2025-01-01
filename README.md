@@ -2,7 +2,9 @@ Calculator Project
 
 This project is a simple calculator built with JavaScript, HTML, and CSS. It provides basic arithmetic operations and a clean, user-friendly interface.
 
-Live Demo
+## Live Demo
+Check out the live version of the calculator: [Calculator Live Demo](https://js-calculator-silk.vercel.app/)
+
 
 Check out the live version of the calculator: Calculator Live Demo
 
